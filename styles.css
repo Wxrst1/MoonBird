@@ -705,7 +705,9 @@ footer {
 footer svg{
     width: 100px;
 }
-
+#tokenomics svg{
+    width: 100px;
+}
 
 
 /* Responsive Design */
